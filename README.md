@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FileComparator
 
 #### 介绍
@@ -34,3 +35,32 @@
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+=======
+# FileComparator
+
+#### 介绍
+这是一个文档的重复率检测的exe应用项目，能够检测两份文档的重复率，支持doc，docx，pdf等格式
+
+#### 软件架构
+软件架构说明
+
+
+#### 安装教程
+
+1.  打开dist文件夹
+2.  将安装包下载
+3.  安装到自己电脑上即可使用
+
+#### 使用说明
+
+测试界面如下：
+![a10a61776a0a6d3ade72c949533eba41](https://github.com/user-attachments/assets/c52a812d-d999-48af-a371-9a60e52a17e3)
+
+
+#### 参与贡献
+
+1.  Fork 本仓库
+2.  新建 Feat_xxx 分支
+3.  提交代码
+4.  新建 Pull Request
+>>>>>>> 4b43c13cb9426911846f1717070a55ef27aebaeb
