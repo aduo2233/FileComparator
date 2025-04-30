@@ -16,7 +16,10 @@
 #### 使用说明
 
 测试界面如下：
-![a10a61776a0a6d3ade72c949533eba41](https://github.com/user-attachments/assets/c52a812d-d999-48af-a371-9a60e52a17e3)
+![image](https://github.com/user-attachments/assets/2299d985-e028-441d-9450-2dd9538cb981)
+![image](https://github.com/user-attachments/assets/9ac6b3a3-997b-4fc5-90c6-c1fabae7d9ae)
+![image](https://github.com/user-attachments/assets/f1f6990c-c71e-4a79-91f1-6f20de74c082)
+
 
 
 #### 参与贡献
